@@ -232,7 +232,3 @@ while True:
             continue
 
     print("comando no valido")
-
-    
-#condicionales:
-
